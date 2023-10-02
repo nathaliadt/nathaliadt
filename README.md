@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nathaliadt. I’m currently learning HTML, CSS, JavaScript, JAVA and SQL. I’m interested in science, developer, music and movies.
+- 👋 Hi, I’m interested in science, developer, data and movies.
 
 
 <!---
