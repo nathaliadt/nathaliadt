@@ -1,4 +1,5 @@
-- 👋 Hi, I’m interested in science, developer, data and movies.
+- 👋 Hi there! I'm a passionate enthusiast of Python, Data, and science.
+- 🚀 My journey is a fusion of my love for science with a growing interest in technology.
 
 
 <!---
